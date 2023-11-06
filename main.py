@@ -1,4 +1,4 @@
-print("Hello, it's a graphic!")
+print("Hello, it's a graphic! Desing by Vladislav")
 
 import matplotlib.pyplot as plt
 
